@@ -9,22 +9,22 @@ global.setting = {
  }
 
 global.owner = [
-['212717457920', 'Nour', true],
+['212621469696', 'x27', true],
 ['212605784394', 'silana', false],
 ['', '', false]
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '212693227969',
- nameown: 'Nour',
- nomerown: '212717457920',
+ nomerbot: '212621469696',
+ pairingNumber: '212621469696',
+ nameown: 'x27',
+ nomerown: '212621469696',
  packname: 'sticker by ',
- author: 'Noureddine',
- namebot: 'ꜱɪʟᴀɴᴀ',
- wm: ''-'_꩜ 𝘚𝘪𝘭𝘢𝘯𝘢 𝘣𝘰𝘵 ꩜_'-'',
+ author: 'x27',
+ namebot: 'x27',
+ wm: ''-'_꩜ x27 𝘣𝘰𝘵 ꩜_'-'',
  stickpack: 'Whatsapp',
- stickauth: 'ꜱɪʟᴀɴᴀ ʙᴏᴛ '
+ stickauth: 'x27 '
 }
 
 // Thumbnail 
@@ -56,7 +56,7 @@ global.wait =` انتظر .. أنا أحاول تلبية طلبك ...`
 // Info Wait
 global.msg = {
  wait: '⏱️ *Please be patient*\n\> Running command from *User*!',
- eror: '🤖*Bot Information*\n\> Sorry for the inconvenience in using *Bobiza Bot*. There was an error in the system while executing the command.'
+ eror: '🤖*Bot Information*\n\> Sorry for the inconvenience in using *x27 Bot*. There was an error in the system while executing the command.'
 }
 
 global.multiplier = 69
